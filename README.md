@@ -19,14 +19,13 @@ My name is Kiprono Elijah Koech and I'm a Data Scientist, Statistician and a Wri
 ## &#x270d; Blog & Writing
 
 You can find my articles and portfolio on 
-
-<a href="https://medium.com/@kiprono_65591">
+<a href="https://medium.com/@kiprono_65591" target="_blank">
   Medium
 </a> and
-<a href="https://kipronokoech.github.io/">
+<a href="https://kipronokoech.github.io/" target="_blank">
   My Website
 </a> 
- 
+
 [Medium](https://medium.com/@kiprono_65591) and [My Website](https://kipronokoech.github.io/).
 
 ## &#x1f4c8; GitHub Stats
