@@ -1,9 +1,5 @@
 ### Hi there 👋
-<style>
-table {
-    width:100%;
-}
-</style>
+
 <!--
 **kipronokoech/kipronokoech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -48,6 +44,7 @@ You can find my articles and portfolio on
 </a>    
 
 
+<div>
 <table width="100%">
   <tr>
     <th>Company</th>
@@ -85,3 +82,4 @@ You can find my articles and portfolio on
     <td>Italy</td>
   </tr>
 </table>
+</dir>
