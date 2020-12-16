@@ -24,10 +24,7 @@ You can find my articles and portfolio on
 </a> and
 <a href="https://kipronokoech.github.io/" target="_blank">
   My Website
-</a> 
-
-[Medium](https://medium.com/@kiprono_65591) and [My Website](https://kipronokoech.github.io/).
-
+</a>.
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/kipronokoech/kipronokoech">
@@ -45,3 +42,42 @@ You can find my articles and portfolio on
 <a href="https://github.com/kipronokoech/Mask-R-CNN-for-Fruit-Detection">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kipronokoech&repo=Mask-R-CNN-for-Fruit-Detection&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
+
+
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+  <tr>
+    <td>Ernst Handel</td>
+    <td>Roland Mendel</td>
+    <td>Austria</td>
+  </tr>
+  <tr>
+    <td>Island Trading</td>
+    <td>Helen Bennett</td>
+    <td>UK</td>
+  </tr>
+  <tr>
+    <td>Laughing Bacchus Winecellars</td>
+    <td>Yoshi Tannamuri</td>
+    <td>Canada</td>
+  </tr>
+  <tr>
+    <td>Magazzini Alimentari Riuniti</td>
+    <td>Giovanni Rovelli</td>
+    <td>Italy</td>
+  </tr>
+</table>
