@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://raw.githubusercontent.com/kipronokoech/kipronokoech/master/header.mp4" width="30px">
+<img src="https://raw.githubusercontent.com/kipronokoech/kipronokoech/master/header.png" width="30px">
 
 My name is Kiprono Elijah Koech and I'm a Data Scientist, Statistician and a Writer. I am originally from Kenya but currently pursung a course towards MSc in Mathematics(Data Science Major) Stellenbosch University, South Africa under African Institute for Mathematical Sciences, living in Bratislava and currently working at IBM. 
 ## &#x270d; Blog & Writing
