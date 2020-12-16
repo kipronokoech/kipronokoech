@@ -28,10 +28,10 @@ My name is Kiprono Elijah Koech and I'm a Data Scientist, Statistician and a Wri
 </a>
 
 <a href="https://github.com/kipronokoech/covid-19-data-scraper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kipronokoech&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kipronokoech&repo=covid-19-data-scraper&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/kipronokoech/covid-19-data-scraper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kipronokoech&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/kipronokoech/Mask-R-CNN-for-Fruit-Detection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kipronokoech&Mask-R-CNN-for-Fruit-Detection&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
