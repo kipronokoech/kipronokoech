@@ -44,7 +44,7 @@ You can find my articles and portfolio on
 </a>    
 
 
-<table>
+<table width="100%">
   <tr>
     <th>Company</th>
     <th>Contact</th>
