@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 <img src="https://raw.githubusercontent.com/kipronokoech/kipronokoech/master/Header4GitHubProfile.jpg" width="100%">
 
-My name is Kiprono Elijah Koech and I'm a Data Scientist, Statistician and a Writer. I am originally from Kenya but currently pursung a course towards MSc in Mathematics(Data Science Major) Stellenbosch University, South Africa under African Institute for Mathematical Sciences, living in Bratislava and currently working at IBM. 
+Hello I am Kiprono Elijah Koech - Data Scientist, Statistician and a Writer. I am originally from Kenya but currently pursung a course towards MSc in Mathematics (Data Science Major) certificate at Stellenbosch University, South Africa under African Institute for Mathematical Sciences scholarship. 
+
 ## &#x270d; Blog & Writing
 
 You can find my articles and portfolio on 
