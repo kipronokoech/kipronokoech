@@ -18,7 +18,16 @@ Here are some ideas to get you started:
 My name is Kiprono Elijah Koech and I'm a Data Scientist, Statistician and a Writer. I am originally from Kenya but currently pursung a course towards MSc in Mathematics(Data Science Major) Stellenbosch University, South Africa under African Institute for Mathematical Sciences, living in Bratislava and currently working at IBM. 
 ## &#x270d; Blog & Writing
 
-You can find my articles and portfolio on [Medium](https://medium.com/@kiprono_65591) and [My Website](https://kipronokoech.github.io/).
+You can find my articles and portfolio on 
+
+<a href="https://medium.com/@kiprono_65591">
+  Medium
+</a> and
+<a href="https://kipronokoech.github.io/">
+  My Website
+</a> 
+ 
+[Medium](https://medium.com/@kiprono_65591) and [My Website](https://kipronokoech.github.io/).
 
 ## &#x1f4c8; GitHub Stats
 
