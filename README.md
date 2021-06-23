@@ -16,18 +16,10 @@ Here are some ideas to get you started:
 -->
 <img src="https://raw.githubusercontent.com/kipronokoech/kipronokoech/master/Header4GitHubProfile.jpg" width="100%">
 
-
-<center>Email: 
-<p>kiprono@aims.ac.za</p></center>
-
-<div style="text-align:center">Email: 
-<p>[kiprono@aims.ac.za](kiprono@aims.ac.za)</p></div>
-
 <p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
+  <b>Contact details</b><br>
+  <a href="kiprono@aims.ac.za">kiprono@aims.ac.za</a> |
+  <a href="https://kipronokoech.github.io/">Website</a> |
   <br><br>
 </p>
 
