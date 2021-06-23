@@ -20,7 +20,8 @@ Here are some ideas to get you started:
   <b>Contact details</b><br>
   Email:
   <a href="kiprono@aims.ac.za">kiprono@aims.ac.za</a> |
-  <a href="https://kipronokoech.github.io/">Website</a>
+  Website: 
+  <a href="https://kipronokoech.github.io/">https://kipronokoech.github.io/</a>
   <br><br>
 </p>
 
