@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<p align="center">
+  <b>Contact details</b><br>
+  Email:
+  <a href="kiprono@aims.ac.za">kiprono@aims.ac.za</a> |
+  Website: 
+  <a href="https://kipronokoech.github.io/">https://kipronokoech.github.io/</a>
+  <br><br>
+</p>
+
 <!--
 **kipronokoech/kipronokoech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,14 +25,11 @@ Here are some ideas to get you started:
 -->
 <img src="https://raw.githubusercontent.com/kipronokoech/kipronokoech/master/Header4GitHubProfile.jpg" width="100%">
 
-<p align="center">
-  <b>Contact details</b><br>
-  Email:
-  <a href="kiprono@aims.ac.za">kiprono@aims.ac.za</a> |
-  Website: 
-  <a href="https://kipronokoech.github.io/">https://kipronokoech.github.io/</a>
-  <br><br>
-</p>
+ <ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul> 
 
 Hello I am Kiprono Elijah Koech - Data Scientist, Statistician and a Writer. I am originally from Kenya but currently a Research Fellow at Technische Universität Berlin, Germany. Also pursuing a course towards MSc in Mathematics (Data Science Major) certificate at Stellenbosch University, South Africa under African Institute for Mathematical Sciences scholarship. 
 
