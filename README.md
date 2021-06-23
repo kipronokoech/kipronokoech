@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 <center>Email: 
 <p>kiprono@aims.ac.za</p></center>
 
+<div style="text-align:center">Email: 
+<p>[kiprono@aims.ac.za](kiprono@aims.ac.za)</p></div>
+
+
 
 Hello I am Kiprono Elijah Koech - Data Scientist, Statistician and a Writer. I am originally from Kenya but currently a Research Fellow at Technische Universität Berlin, Germany. Also pursuing a course towards MSc in Mathematics (Data Science Major) certificate at Stellenbosch University, South Africa under African Institute for Mathematical Sciences scholarship. 
 
