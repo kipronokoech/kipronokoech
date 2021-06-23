@@ -23,7 +23,13 @@ Here are some ideas to get you started:
 <div style="text-align:center">Email: 
 <p>[kiprono@aims.ac.za](kiprono@aims.ac.za)</p></div>
 
-
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+</p>
 
 Hello I am Kiprono Elijah Koech - Data Scientist, Statistician and a Writer. I am originally from Kenya but currently a Research Fellow at Technische Universität Berlin, Germany. Also pursuing a course towards MSc in Mathematics (Data Science Major) certificate at Stellenbosch University, South Africa under African Institute for Mathematical Sciences scholarship. 
 
