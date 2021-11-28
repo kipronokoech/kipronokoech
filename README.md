@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/kipronokoech/kipronokoech/master/Header4GitHubProfile.jpg" width="100%">
 
  <ul>
-  <li>🔭 I’m currently working on <i> data science projects under video classification and action recognition to be precise.</i></li>
+  <li>🔭 I’m currently working on <i> masters by research focusing on object detection applied to precision agriculture. Precisely, the thesis is titled: "Fruit Detection in an Orchard Using Deep Learning - A Focus in Post Processing"</i></li>
   <li>🌱 I’m currently learning <i> to be a better person in all respect -professionally, economically and socially.</i></li>
   <li>👯 I’m looking to collaborate on <i> any data science projects</i></li>
   <li>💬 Ask me about<i> anything. Just anything. I will answer and/or help whenever I can. </i></li>
@@ -34,7 +34,9 @@ Here are some ideas to get you started:
   <li>📫 How to reach me: <i> on email <a href="#">kiprono@aims.ac.za</a>. </i></li>
 </ul> 
 
-Hello I am Kiprono Elijah Koech - Data Scientist, Statistician and a Writer. I am originally from Kenya but currently a Research Fellow at Technische Universität Berlin, Germany. Also pursuing a course towards MSc in Mathematics (Data Science Major) certificate at Stellenbosch University, South Africa under African Institute for Mathematical Sciences scholarship. 
+Hello I am Kiprono Elijah Koech - Data Scientist, Statistician and a Writer. I am originally from Kenya but currently a Research Masters in Stellenbosch University, South Africa pursuing a course towards MSc in Mathematics(Data Science Major) under African Institute for Mathematical Sciences scholarship. 
+
+Previously a Research Fellow at Technische Universität Berlin, Germany and Bachelor's Degree in Statistics graduate from Jomo Kenyatta University of Agriculture and Technology, Kenya
 
 ## &#x270d; Blog & Writing
 
