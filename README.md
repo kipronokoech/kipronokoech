@@ -50,6 +50,7 @@ You can find my articles and portfolio on
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kipronokoech)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kipronokoech&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiprono&show_icons=true&theme=radical)
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/kipronokoech/kipronokoech">
