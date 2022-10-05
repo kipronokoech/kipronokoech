@@ -47,6 +47,8 @@ You can find my articles and portfolio on
 <a href="https://kipronokoech.github.io/" target="_blank">
   My Website
 </a>.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kipronokoech)](https://github.com/anuraghazra/github-readme-stats)
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/kipronokoech/kipronokoech">
