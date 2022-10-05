@@ -48,13 +48,14 @@ You can find my articles and portfolio on
   My Website
 </a>.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiprono&show_icons=true&theme=radical)
+<> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiprono&show_icons=true&theme=radical)
 
-#![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kipronokoech&repo=Neural-Networks-from-Scratch)
-#![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kipronokoech&repo=Mask-R-CNN-for-Fruit-Detection)
-#![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kipronokoech&repo=covid-19-data-scraper)
+<> #![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kipronokoech&repo=Neural-Networks-from-Scratch)
+<> #![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kipronokoech&repo=Mask-R-CNN-for-Fruit-Detection)
+<> #![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kipronokoech&repo=covid-19-data-scraper)
 
 ## &#x1f4c8; GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiprono&show_icons=true&theme=radical)
 
 <a href="https://github.com/kipronokoech/kipronokoech">
   <img align="center" src="https://kipronokoech-git-main-kipronokoech.vercel.app/api/top-langs/?username=kipronokoech&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
