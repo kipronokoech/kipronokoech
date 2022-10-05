@@ -51,8 +51,10 @@ You can find my articles and portfolio on
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kipronokoech)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kipronokoech&count_private=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiprono&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kipronokoech&repo=Neural-Networks-from-Scratch)]
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kipronokoech&repo=Neural-Networks-from-Scratch)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kipronokoech&repo=Mask-R-CNN-for-Fruit-Detection)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kipronokoech&repo=covid-19-data-scraper)]
 
 ## &#x1f4c8; GitHub Stats
 
