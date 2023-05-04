@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/kipronokoech/kipronokoech/master/Header4GitHubProfile.jpg" width="100%">
 
  <ul>
-  <li>🔭 I’m currently working as Data Intelligence Analyst at <a href="https://sunking.com/"> Sunking</a> (started January 3, 2023)</i></li>
+  <li>🔭 I’m currently working as Data Intelligence Analyst at <a href="https://sunking.com/"> Sun King</a> (started January 3, 2023)</i></li>
   <li>🌱 I’m currently learning <i> to be a better person in all respect -professionally, economically and socially.</i></li>
   <li>👯 I’m looking to collaborate on <i> any data science projects</i></li>
   <li>💬 Ask me about<i> anything. Just anything. I will answer and/or help whenever I can. </i></li>
@@ -34,9 +34,9 @@ Here are some ideas to get you started:
   <li>📫 How to reach me: <i> on email <a href="#">kiprono@aims.ac.za</a>. </i></li>
 </ul> 
 
-Hello I am Kiprono Elijah Koech - Data Scientist, Statistician and a Writer. I am natively Kenya, current a Data Intelligence Analyst at <a href="https://sunking.com/"> Sunking</a>.
+Hello I am Kiprono Elijah Koech - Data Scientist, Statistician and a Writer. I am natively Kenyan, current a Data Intelligence Analyst at <a href="https://sunking.com/"> Sun King</a>.
 
-Previously a Research Fellow at Technische Universität Berlin, Germany; Master gratuate from Stellenbosch University, South Africa; and Bachelor's Degree in Statistics graduate from Jomo Kenyatta University of Agriculture and Technology, Kenya
+Previously a Research Fellow at Technische Universität Berlin, Germany; Master graduate from Stellenbosch University, South Africa; and Bachelor's Degree in Statistics graduate from Jomo Kenyatta University of Agriculture and Technology, Kenya
 
 ## &#x270d; Blog & Writing
 
