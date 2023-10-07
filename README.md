@@ -6,6 +6,9 @@
 
 [![Mask-R-CNN-for-Fruit-Detection](https://github-readme-stats.vercel.app/api/pin/?username=kipronokoech&repo=Mask-R-CNN-for-Fruit-Detection)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Reviews-Classification](https://github-readme-stats.vercel.app/api/pin/?username=kipronokoech&repo=Reviews-Classification)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### 📫 How to reach me:
   - Website   : [https://kipronokoech.github.io/]("https://kipronokoech.github.io/")
