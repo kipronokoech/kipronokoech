@@ -36,11 +36,13 @@ You can find my articles and portfolio on
 </a>.
 
 
+## GitHub Stats
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kipronokoech&show_icons=true&theme=transparent" />
 </a></p>
 
+## Selected Repos
 [![Neural-Networks-from-Scratch](https://github-readme-stats.vercel.app/api/pin/?username=kipronokoech&repo=Neural-Networks-from-Scratch&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Mask-R-CNN-for-Fruit-Detection](https://github-readme-stats.vercel.app/api/pin/?username=kipronokoech&repo=Mask-R-CNN-for-Fruit-Detection&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
@@ -48,36 +50,3 @@ You can find my articles and portfolio on
 [![Reviews-Classification](https://github-readme-stats.vercel.app/api/pin/?username=kipronokoech&repo=Reviews-Classification&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### 📫 How to reach me:
-  - Website   : [https://kipronokoech.github.io/]("https://kipronokoech.github.io/")
-
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        .container {
-            display: flex;
-            justify-content: space-between;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div>
-            <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=kipronokoech&repo=Neural-Networks-from-Scratch&theme=transparent" alt="Neural-Networks-from-Scratch">
-            </a>
-        </div>
-        <div>
-            <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=kipronokoech&repo=Mask-R-CNN-for-Fruit-Detection&theme=transparent" alt="Mask-R-CNN-for-Fruit-Detection">
-            </a>
-        </div>
-        <div>
-            <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=kipronokoech&repo=Reviews-Classification&theme=transparent" alt="Reviews-Classification">
-            </a>
-        </div>
-    </div>
-</body>
-</html>
