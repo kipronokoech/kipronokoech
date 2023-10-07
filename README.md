@@ -1,5 +1,5 @@
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kipronokoech&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kipronokoech&show_icons=true&theme=transparent" />
 </a></p>
 
 [![Neural-Networks-from-Scratch](https://github-readme-stats.vercel.app/api/pin/?username=kipronokoech&repo=Neural-Networks-from-Scratch&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
