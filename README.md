@@ -13,13 +13,11 @@
 <img src="https://raw.githubusercontent.com/kipronokoech/kipronokoech/master/Header4GitHubProfile.jpg" width="100%">
 
  <ul>
-  <li>🔭 I’m currently working as Data Intelligence Analyst at <a href="https://sunking.com/"> Sun King</a> (started January 3, 2023)</i></li>
+  <li>🔭 I’m currently working as Data Scientist at <a href="https://sunking.com/"> Sun King</a> (started January 3, 2023)</i></li>
   <li>👯 I’m looking to collaborate on <i> any data science projects</i></li>
   <li>💬 Ask me about<i> anything. Just anything. I will answer and/or help whenever I can. </i></li>
   <li>📫 How to reach me: <i> on email <a href="#">kiprono@aims.ac.za</a>. </i></li>
 </ul> 
-
-Hello I am Kiprono Elijah Koech - Data Scientist, Statistician and a Writer, currently a Data Intelligence Analyst at <a href="https://sunking.com/"> Sun King</a>.
 
 Previously a Research Fellow at [Science of Intelligence, Technische Universität Berlin](https://www.scienceofintelligence.de/) in Berlin, Germany; Masters graduate of Applied Mathematics from [Stellenbosch University](http://www.sun.ac.za/english)  in Cape Town, South Africa; and Bachelor's Degree in Statistics graduate from [Jomo Kenyatta University of Agriculture and Technology](https://www.jkuat.ac.ke/) in Nairobi, Kenya.
 
