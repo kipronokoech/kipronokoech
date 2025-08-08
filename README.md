@@ -3,7 +3,7 @@
 <p align="center">
   <b>Contact details</b><br>
   Email:
-  <a href="#">kiprono@aims.ac.za</a> |
+  <a href="#">kiprono.elijah27@gmail.com</a> |
   Website: 
   <a href="https://kipronokoech.github.io/">https://kipronokoech.github.io/</a>
   <br><br>
