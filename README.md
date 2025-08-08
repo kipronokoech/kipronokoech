@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+This is Kiprono
+
+I'm a passionate Data Scientist with expertise in:
+- **Machine Learning**
+- **Deep Learning**
+- **Python**
+- **AWS**
+- **Docker**
+- **Data Analytics**
+- **Looker & LookML**
+- **PostgreSQL and MondgoDB**
+- **Git**
+- **Unix**
+
 <p align="center">
   <b>Contact details</b><br>
   Email:
